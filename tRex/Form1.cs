@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using tRex.Properties;
-s
+
 namespace tRex
 {
     public partial class EndlessRunner : Form
